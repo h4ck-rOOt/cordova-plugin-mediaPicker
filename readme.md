@@ -1,4 +1,4 @@
-# MediaPicker v:2.5.2
+# MediaPicker v:2.5.3
 
 android ios mediaPicker support  selection of multiple image and video gif  (Support Chinese, English, Spanish, Portuguese, and Turkish)</br>
 
